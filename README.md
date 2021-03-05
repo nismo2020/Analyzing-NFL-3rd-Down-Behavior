@@ -15,6 +15,7 @@ To investigate 3rd down behavior, I obtained play-by-play data from NFL Savant. 
 
 To start my main analysis of 3rd down plays. I created a new data frame, which only included 3rd down plays which were a run or pass (excluding field goals, penalties, etc). I added a new categorical column named “Distance”, which signified how many yards a team had to go to convert the first down. Using conventional NFL definitions, I decided on this:
 
+![yard bins](https://github.com/nismo2020/Analyzing-NFL-3rd-Down-Behavior/blob/main/images/yardage_bins.JPG)
 
 ## Technologies Used
 * Python 3
